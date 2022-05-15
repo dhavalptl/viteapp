@@ -16,7 +16,7 @@
     "msw:delete": "rm dist/mockServiceWorker.js",
     "cz": "cz",
     "prepare": "husky install",
-    "release": "standard-version"
+    "release": "standard-version --no-verify"
   },
   "dependencies": {
     "react": "^18.0.0",
