@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "dev:mock": "vite --mode mock",
-    "build": "tsc && vite build && npm run msw:delete",
+    "build": "tsc && vite build",
+    "build:withoutdocker": "tsc && vite build && npm run msw:delete",
     "preview": "vite preview",
     "coverage": "vitest run --coverage",
     "test": "vitest --watch=false",
