@@ -1,7 +1,7 @@
 {
   "name": "viteapp",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vite ecosystem with React",
   "scripts": {
     "dev": "vite",
