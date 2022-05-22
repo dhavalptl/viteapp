@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/dhavalptl/viteapp/compare/v0.0.2...v0.0.4) (2022-05-22)
+
+
+### Features
+
+* **dockerfile:** change dockerfile ([44f048d](https://github.com/dhavalptl/viteapp/commit/44f048d2d67c2c1b0ba78c7a912a66577177b484))
+
 ### [0.0.3](https://github.com/dhavalptl/viteapp/compare/v0.0.2...v0.0.3) (2022-05-22)
 
 
